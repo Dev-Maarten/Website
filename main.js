@@ -1,13 +1,12 @@
- piet(1,6);
-
+ piet(1,4)
 function piet(s,n) {
     for (let x=s;x<n;x++) {
-        //console.log(x)
-        // if (x==1) {
-        //  console.log("bericht");
-        // } else {
-        //  console.log("anders");
-        // }
+        console.log(x)
+        if (x==1) {
+         console.log("bericht");
+        } else {
+         console.log("anders");
+        }
 
         switch (x) {
             case 1:
@@ -20,8 +19,9 @@ function piet(s,n) {
                 console.log("groen");
                 break;
             default:
-                console.log("anders");.
+                console.log("anders");
                 break;
         }
     }
 }
+
