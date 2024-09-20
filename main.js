@@ -20,7 +20,7 @@ function piet(s,n) {
                 console.log("groen");
                 break;
             default:
-                console.log("anders");
+                console.log("anders");.
                 break;
         }
     }
