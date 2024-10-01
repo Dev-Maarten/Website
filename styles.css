@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+
+}
+
+.topnav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.topnav li {
+    display: inline;
+
+}
+
+.topnav {
+    background-color: lightgreen;
+    padding: 10px;
+    border-style:solid;
+    border: black;
+    border-width: 3px
+
+}
+
