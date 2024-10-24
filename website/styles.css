@@ -30,6 +30,16 @@ nav ul li a::after{
     bottom: -6px
 }
 
+
+.head-text p {
+    font-size: 20px;
+    margin-top: 15%;
+}
+
+.head-text h1{
+    font-size: 30px;
+    padding: 10px
+}
 .topnav {
     padding: 10px 10%;
 
@@ -66,22 +76,9 @@ nav ul li a::after{
     padding: 10px;
 }
 
-.over {
-    display: flex;
-    container: auto;
-    justify-content: flex-end;
-    position: absolute;
-    float: right;
-    right: 0;
-    width: auto;
-    height: auto;
-    border: 1px solid white;
-    color: white;
-
-}
 
 body {
-    background-image: url('background.jpg');
+    background-image: url('wallpaper.jpg');
     background-size: cover;
 }
 
