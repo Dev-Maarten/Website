@@ -3,12 +3,24 @@
 <!doctype HTML>
 <html lang="nl">
 <body>
-<section id="begin" class="over">
-    <h3>over mij</h3>
-<!--    <link rel="icon" href=(~fotovanmij) type="image/svx+xml">-->
-    <p>Ik ben geinteresseerd in het ontwikkelen van verschillende soorten code, ik ben nu bezig met het maken van webpagina's
-    en ik ga binnenkort beginnen met het ontwikkelen van stuurprogramma's en verschillende soorten software.</p>
-  </section>
+    <div id="over">
+        <div class="container">
+            <div class="row">
+                <div class="about-column">
+                    <img src="about-me.jpg">
+
+                </div>
+                <div class="about-column-2">
+                    <h1 class="titel">over mij</h1>
+                    <p>Ik ben een student software development op het windesheim college in almere. </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
 
 
 </body>
